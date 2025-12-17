@@ -1,4 +1,4 @@
-# Generative-Adversarial-Networks
+# Generative Adversarial Networks
 This repository contains the implementation of the following GAN architectures:
 - Vanilla GANs
 - Deep Convolutional GANs
